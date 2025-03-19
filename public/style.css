@@ -1,3 +1,93 @@
 body {
-    background-color: aquamarine;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
 }
+
+header {
+    background: #9d6fed;
+    color: white;
+    padding: 40px 0;
+    text-align: center;
+    margin-top: -20px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+.tourist-place {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.tourist-place img {
+    width: 300px}
+    
+    #vitoria>a>img{
+        width: 500px;
+    }
+    .text-content{
+        margin-left: 15px;
+        text-align: justify;
+    }
+    .login{
+        margin-left: 1070px;
+    }
+    .login {
+        position: relative; 
+    }
+    
+    .form-login {
+        margin-top: -110px;
+        display: flex; 
+        flex-direction: column; 
+        align-items: flex-end; 
+        background-color: #9d6fed;
+        border: 1px solid #9d6fed; 
+        border-radius: 10px; 
+        padding: 8px; 
+        margin-left: 10px;
+        
+    }
+
+    #guarapari>a>img{
+        height: 375px;
+        width: 500px;
+    }
+    #domingos-martins>a>img{
+        height: 375px;
+        width: 500px;
+    }
+  #anchieta>a>img{
+    height: 375px;
+    width: 500px;
+  }
+  #itaunas>a>img{
+    height: 375px;
+    width: 500px;
+  }
+  footer{
+    text-align: center;
+    background-color: #9d6fed;
+    margin-bottom: -10px;
+  }
+  h2{
+    text-align: center;
+  }

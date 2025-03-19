@@ -8,17 +8,17 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Geovanna Duarte
+- Matricula: 880542
+- Proposta de projeto escolhida: Guia Turístico
+- Breve descrição sobre seu projeto: Trabalho realizado em html e css sobre um Guia Turístico do estado do Espirito Santo.
 
 
 ## Print do esboço criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+<< ![alt text](public/esboço.png) >> 
 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+<< ![alt text](public/homepage.png) >>
